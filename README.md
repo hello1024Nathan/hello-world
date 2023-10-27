@@ -9,8 +9,10 @@
 
 | Rank | Languages |
 |-----:|-----------|
-|     1| Javascript|
-|     2| Python    |
-|     3| SQL       |
+|     1| Python
+|     2| c    |
+|     3| Java  |
+|     4| C# |
+|     5| JavaScript  |
 
 </details>
