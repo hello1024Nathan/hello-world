@@ -7,9 +7,9 @@
 <details>
 <summary>My top languages</summary>
 
-| **排名** | 编程语言	 |
+| *排名* | 编程语言	 |
 |-----:|-----------|
-|     1| Python
+|     1| **Python**
 |     2| c    |
 |     3| Java  |
 |     4| C# |
