@@ -7,7 +7,7 @@
 <details>
 <summary>My top languages</summary>
 
-| Rank | Languages |
+| 排名 | 编程语言	 |
 |-----:|-----------|
 |     1| Python
 |     2| c    |
